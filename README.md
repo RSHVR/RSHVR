@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/72uG.gif" alt="Kenobi 'Hello there' GIF">
+<img src="kenobi-hello-there.png" alt="Kenobi 'Hello there' GIF">
 
 <!--
 **RSHVR/RSHVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
